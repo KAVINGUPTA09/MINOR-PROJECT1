@@ -221,7 +221,7 @@ Diabetes-Prediction/
 │
 ├── README.md
 │
-└── requirements.txt
+
 ```
 
 ---
